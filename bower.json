@@ -14,7 +14,7 @@
     "innerHTML"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#2"
+    "polymer": "Polymer/polymer#^2.6.0"
   },
   "license": "MIT",
   "main": "s-html.html",
@@ -23,11 +23,11 @@
     "url": "git://github.com/StartPolymer/s-html.git"
   },
   "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#2",
-    "iron-component-page": "PolymerElements/iron-component-page#2",
-    "test-fixture": "polymerelements/test-fixture#2",
-    "web-component-tester": "^6.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+    "paper-styles": "PolymerElements/paper-styles#^2.1.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
+    "test-fixture": "PolymerElements/test-fixture#^3.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.5.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.1.0"
   },
   "ignore": []
 }
